@@ -67,7 +67,7 @@ def get_major_login(logintoken, openid):
     }, Proto.compiled.MajorLogin_pb2.request())
 
     # API endpoint
-    url = "https://loginbp.ggblueshark.com/MajorLogin"
+    url = "https://loginbp.ppmainecoonghj.com/MajorLogin"
 
     # Headers
     headers = {
